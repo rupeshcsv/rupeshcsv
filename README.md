@@ -9,5 +9,4 @@ I enjoy reading fiction, competitive programming in Python, exploring crypto eco
 
 Pursuing MS in Data Science at Indiana University. Go Hoosiers!✊🏽
 
-[![Rupesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupeshcsv&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/vermakhushboo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshcsv&layout=compact&theme=calm)](https://github.com/rupeshcsv/github-readme-stats)
