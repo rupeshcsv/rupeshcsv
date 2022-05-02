@@ -7,6 +7,7 @@
 
 I enjoy reading fiction, competitive programming in Python, exploring crypto ecosystems on-chain, and making new friends!
 
-Pursuing MS in Data Science at Indiana University. Go Hoosiers!✊🏽
+MS in Data Science at Indiana University, Class of 2022.
+Incoming SDE at Amazon in Seattle, Washington.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshcsv&layout=compact&theme=calm)](https://github.com/rupeshcsv/github-readme-stats)
